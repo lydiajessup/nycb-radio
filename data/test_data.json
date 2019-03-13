@@ -1,0 +1,46 @@
+{
+  "appetizers": [
+
+
+    {
+			"item": "roasted beets",
+      "smallP": 10.00,
+      "largeP": 15.00
+    },
+
+
+    {
+			"item": "buffalo cauliflower wings",
+      "smallP": 8.00,
+      "largeP": 12.00
+    },
+
+
+    {
+			"item": "olives",
+      "smallP": 5.00,
+      "largeP": 10.00
+    }
+	],
+
+  "drinks": [
+
+
+    {
+			"item": "signature cocktail",
+      "price": 16.00
+    },
+
+
+    {
+			"item": "wine of the day",
+      "price": 9.00
+    },
+
+
+    {
+			"item": "local draft beer",
+      "price": 8.00
+    }
+  ]
+}

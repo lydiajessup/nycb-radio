@@ -1,0 +1,109 @@
+html, body {
+  margin: 0;
+  padding: 15px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  color: black;
+  background-color:#3AB08B;
+  height: 100px;
+  width: 500px;
+
+}
+
+#NYCB{
+  position:absolute;
+  background-color: #DFD638;
+  width: 400px;
+  height: 200px;
+  font-size: 100px;
+  border: solid black;
+}
+
+#NYCBtext{
+  position: relative;
+  bottom: 100px;
+  left: 20px;
+}
+
+
+#Number{
+  position: relative;
+  left: 420px;
+  top: 0px;
+  width: 400px;
+  height: 200px;
+  border: solid black;
+  text-align: right;
+  background-color: #E09634;
+}
+
+#Numbertext{
+  position: relative;
+  right: 15px;
+  top: -120px;
+  font-size: 100px;
+}
+
+#Boroughtext{
+  position: relative;
+  font-size: 50px;
+  top: -30px;
+  right: 15px;
+}
+
+#About{
+  position: absolute;
+  background-color: #3C558F;
+  top: 30px;
+  left: 870px;
+  width: 210px;
+  height: 200px;
+  border: solid black;
+  font-size: 25px;
+}
+
+#Author{
+  position: relative;
+  left: 15px;
+  top: 15px;
+}
+
+#ITP{
+  position: relative;
+  left: 15px;
+  top: 15px;
+}
+
+#sketch{
+  position: absolute;
+
+}
+
+
+#CommunityBoard{
+  position: absolute;
+  background-color: #E09634;
+  top: 375px;
+  width: 820px;
+  height: 200px;
+  border: solid black;
+}
+
+#Radiotext{
+  position: relative;
+  text-align: center;
+  font-size: 50px;
+  top: 15px;
+
+}
+
+#Website{
+  position: absolute;
+  background-color: #DFD638;
+  top: 375px;
+  left: 875px;
+  width: 200px;
+  height: 200px;
+  border: solid black;
+  word-wrap: break-word;
+}
